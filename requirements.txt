@@ -1,0 +1,13 @@
+# Core Data Science Libraries
+numpy==1.26.4
+pandas==2.2.3
+
+# Jupyter & Notebook Tools
+jupyter==1.0.0
+jupyterlab==4.2.5
+notebook==7.2.2
+ipykernel==6.29.5
+
+# Optional for plotting (if you add visualization tutorials later)
+matplotlib==3.9.2
+seaborn==0.13.2
