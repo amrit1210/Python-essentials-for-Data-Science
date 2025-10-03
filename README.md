@@ -13,33 +13,6 @@ It is designed as a quick reference and learning resource for beginners and inte
 
 ---
 
-## 🛠️ Installation & Setup
-
-Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/Python-essentials-for-Data-Science.git
-cd Python-essentials-for-Data-Science
-
-Create and activate a virtual environment (recommended):
-```bash
-python -m venv venv
-source venv/bin/activate    # Mac/Linux
-venv\Scripts\activate       # Windows
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
-
----
-## 📓 **Usage**
-
-Open Jupyter Notebook to explore tutorials:
-```bash
-jupyter notebook
-
----
-
 ## 📖 **Topics Covered**
 🔢 **NumPy**
 
@@ -70,5 +43,31 @@ Data cleaning and preprocessing
 Holidays
 
 Time Series Data
+
+---
+
+## 🛠️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/<your-username>/Python-essentials-for-Data-Science.git
+cd Python-essentials-for-Data-Science
+
+Create and activate a virtual environment (recommended):
+
+python -m venv venv
+source venv/bin/activate    # Mac/Linux
+venv\Scripts\activate       # Windows
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+## 📓 **Usage**
+
+Open Jupyter Notebook to explore tutorials:
+
+jupyter notebook
 
 ---
