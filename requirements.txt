@@ -1,6 +1,7 @@
 # Core Data Science Libraries
 numpy==1.26.4
 pandas==2.2.3
+statsmodels==0.14.4
 
 # Jupyter & Notebook Tools
 jupyter==1.0.0
